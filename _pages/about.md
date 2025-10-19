@@ -9,6 +9,8 @@ redirect_from:
 
 I am currently a third-year undergraduate student at SUSTech, majoring in Computer Science and Technology (Turing Class).
 
+I have participated in competitive progamming, Gold Medalist in the **International Collegiate Programming Contest**.
+
 During my undergraduate study, I was fortunate to be advised by Prof. [Pietro S. Oliveto](https://peteroliveto.github.io/). My primary research interest lies in the Theory of AI. I am passionate about exploring randomized algorithms and hyper-heuristic algorithms.
 
 ## Research Interests
