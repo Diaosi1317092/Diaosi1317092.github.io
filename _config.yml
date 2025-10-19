@@ -13,17 +13,17 @@ title                    : "My Profile"
 title_separator          : "-"
 name                     : &name "Zhenyu Wang"
 description              : &description "Zhenyu Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Diaosi1317092.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Diaosi1317092.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Diaosi1317092/Diaosi1317092.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./Profile.JPG"
   name             : "Zhenyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Southern University of Science and Technology"
