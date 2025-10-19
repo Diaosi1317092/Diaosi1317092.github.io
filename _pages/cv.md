@@ -36,10 +36,10 @@ Talks
 
 Awards
 ======
-* **2024 ICPC Hangzhou Regional Contest**: Gold Medal $\color{orange}{\#15}$
-* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal $\color{orange}{\#22}$
-* **2024 ICPC Shenyang Regional Contest**: Silver Medal $\color{gray}{\#64}$
-* **2024 ICPC Asia East Continent Final Contest**: Silver Medal $\color{gray}{\#55}$
+* **2024 ICPC Hangzhou Regional Contest**: Gold Medal $\color{orange}{\# 15}$
+* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal $\color{orange}{\# 22}$
+* **2024 ICPC Shenyang Regional Contest**: Silver Medal $\color{gray}{\# 64}$
+* **2024 ICPC Asia East Continent Final Contest**: Silver Medal $\color{gray}{\# 55}$
 
 Courses
 ======
@@ -52,6 +52,7 @@ Teaching
 ======
 * **CS217 Data Structures and Algorithm Analysis (Honors)**, Fall 2025  
   * Role: Teaching Assistant
+
 <!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
