@@ -23,7 +23,7 @@ repository               : "Diaosi1317092/Diaosi1317092.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./Profile.jpg"
+  avatar           : "./Profile.JPG"
   name             : "Zhenyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Southern University of Science and Technology"
