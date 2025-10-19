@@ -11,54 +11,72 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology (Turing Class), Southern University of Science and Technology, 2023 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Research Assistant
+  * Theory of AI Lab, Southern University of Science and Technology
+  * Duties include: Research on the Theory of AI
+  * Supervisor: Professor Pietro S. Oliveto
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
+Awards
+======
+* **2024 ICPC Hangzhou Regional Contest**: Gold Medal $\color{orange}{\#15}$
+* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal $\color{orange}{\#22}$
+* **2024 ICPC Shenyang Regional Contest**: Silver Medal $\color{gray}{\#64}$
+* **2024 ICPC Asia East Continent Final Contest**: Silver Medal $\color{gray}{\#55}$
+
+Courses
+======
+* **CS217 Data Structures and Algorithm Analysis (Honors)**, Fall 2024  
+  * Final Grade: 100/100
+* **CS216 Algorithm Design and Analysis (Honors)**, Spring 2025  
+  * Final Grade: 99/100
+
 Teaching
 ======
+* **CS217 Data Structures and Algorithm Analysis (Honors)**, Fall 2025  
+  * Role: Teaching Assistant
+<!--
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+-->
+
+Projects
 ======
-* Currently signed in to 43 different slack teams
+* **Five-stage Pipeline CPU**  
+  * Completed in Spring 2025 as part of the CS202 Computer Organization & Design course  
+  * GitHub Repository: [Five-stage Pipeline CPU](https://github.com/Diaosi1317092/Computer-Organization-Project)
+  * Final Grade: 115/100
+
+* **Course Grading System**  
+  * Completed in Spring 2025 as part of the CS304 Software Engineering course  
+  * GitHub Repository: [Course Grading System](https://github.com/sustech-cs304/team-project-25spring-team22)
+  * Final Grade: 100/100
+
+Skills
+======
+* **Programming**:
+  - Modern C++
+  - Python
+  - Verilog (hardware development)
+  - JavaScript (front-end development)
+* **Languages**:
+  - Native in Chinese
+  - Fluent in English
