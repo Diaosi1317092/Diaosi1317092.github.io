@@ -23,7 +23,7 @@ repository               : "Diaosi1317092/Diaosi1317092.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.JPG"
+  avatar           : "profile.png"
   name             : "Zhenyu Wang"
   pronouns         : # example: "she/her"  
   bio              : "Southern University of Science and Technology"
@@ -77,7 +77,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/wzy-58-62"
+  zhihu            : "wzy-58-62"
   codeforces       : "https://codeforces.com/profile/Dia0si"
 
 # Publication Category - The following the list of publication categories and their headings
