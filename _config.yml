@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "My Profile"
 title_separator          : "-"
@@ -49,6 +49,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/Diaosi1317092"
+  codeforces       : "https://codeforces.com/profile/Dia0si"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
