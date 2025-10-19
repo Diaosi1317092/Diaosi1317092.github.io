@@ -36,10 +36,10 @@ Talks
 
 Awards
 ======
-* **2024 ICPC Hangzhou Regional Contest**: Gold Medal $\color{orange}{15}$
-* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal $\color{orange}{22}$
-* **2024 ICPC Shenyang Regional Contest**: Silver Medal $\color{gray}{64}$
-* **2024 ICPC Asia East Continent Final Contest**: Silver Medal $\color{gray}{55}$
+* **2024 ICPC Hangzhou Regional Contest**: Gold Medal
+* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal
+* **2024 ICPC Shenyang Regional Contest**: Silver Medal
+* **2024 ICPC Asia East Continent Final Contest**: Silver Medal
 
 Courses
 ======
