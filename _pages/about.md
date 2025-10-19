@@ -13,5 +13,5 @@ During my undergraduate study, I was fortunate to be advised by Prof. [Pietro S.
 
 ## Research Interests
 
-- **Theory of Artificial Intelligence**
+- **Hyper-heuristic Algorithms**
 - **Computational Complexity**
