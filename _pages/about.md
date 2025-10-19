@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "Zhenyu Wang"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Southern University of Science and Technology
-
-## About Me
 
 I am currently a third-year undergraduate student at Southern University of Science and Technology (SUSTech), majoring in Computer Science and Technology (Turing Class).
 
