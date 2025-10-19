@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* Spring 2025: Research Assistant
+* **Spring 2025: Research Assistant**
   
   Theory of AI Lab, Southern University of Science and Technology
   
