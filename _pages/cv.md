@@ -16,8 +16,11 @@ Education
 Work experience
 ======
 * Spring 2025: Research Assistant
-  * Theory of AI Lab, Southern University of Science and Technology
-  * Duties include: Research on the Theory of AI
+  Theory of AI Lab, Southern University of Science and Technology
+  *A Refined Reinforcement Learning Hyper-heuristic with Adaptive Operator Selection*
+  * Additive reinforcement learning mechanisms in selection hyper-heuristics lack conclusive performance results.
+  * Demonstrates that reinforcement learning selection hyper-heuristics can identify the most useful RLS operator for *LeadingOnes*.
+  * Status: Ongoing
   * Supervisor: Professor Pietro S. Oliveto
 
 <!--
