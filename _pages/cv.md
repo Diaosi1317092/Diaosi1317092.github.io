@@ -61,6 +61,10 @@ Teaching
 
 Projects
 ======
+* **Range Hood Program**  
+  * Completed in Fall 2024 as part of the CS211 Digital Logic (Honors) course  
+  * GitHub Repository: [Range Hood Program](https://github.com/Diaosi1317092/Digital-Logic-Project)
+    
 * **Five-stage Pipeline CPU**  
   * Completed in Spring 2025 as part of the CS202 Computer Organization & Design course  
   * GitHub Repository: [Five-stage Pipeline CPU](https://github.com/Diaosi1317092/Computer-Organization-Project)
