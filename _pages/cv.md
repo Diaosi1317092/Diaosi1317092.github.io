@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Technology (Turing Class), Southern University of Science and Technology, 2023 (expected)
 
-Work experience
+Work Experience
 ======
 * **Spring 2025: Research Assistant**
   
