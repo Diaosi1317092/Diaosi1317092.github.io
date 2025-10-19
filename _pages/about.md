@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhenyu Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-# Zhenyu Wang
 Southern University of Science and Technology
 
 ## About Me
