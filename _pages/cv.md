@@ -44,11 +44,8 @@ Awards
 ======
 * **2024 ICPC Hangzhou Regional Contest**: Gold Medal
 * **2024 CCPC Zhengzhou Regional Contest**: Gold Medal
-* **2024 ICPC Asia East Continent Final Contest**: Silver Medal
-<!--
 * **2024 ICPC Shenyang Regional Contest**: Silver Medal
--->
-
+* **2024 ICPC Asia East Continent Final Contest**: Silver Medal
 
 Courses
 ======
