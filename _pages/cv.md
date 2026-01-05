@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology (Turing Class), Southern University of Science and Technology, 2023 (expected)
+* B.S. in Computer Science and Technology (Turing Class), Southern University of Science and Technology, 2023
 
 Work Experience
 ======
