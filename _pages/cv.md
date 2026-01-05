@@ -105,6 +105,7 @@ Skills
 * **Programming**:
   - Modern C++
   - Python
+  - Rust
   - Verilog (hardware development)
   - JavaScript (front-end development)
 * **Languages**:
