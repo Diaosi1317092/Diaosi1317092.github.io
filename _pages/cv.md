@@ -19,11 +19,12 @@ Work Experience
   
   Theory of AI Lab, Southern University of Science and Technology
   
-  *A Refined Reinforcement Learning Hyper-heuristic with Adaptive Operator Selection*
+  *On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics*
 
-  * Additive reinforcement learning mechanisms in selection hyper-heuristics lack conclusive performance results.
-  * Demonstrates that reinforcement learning selection hyper-heuristics can identify the most useful RLS operator for *LeadingOnes*.
-  * Status: Ongoing
+  * **Co-first author (theory track).**
+  * We give a rigorous runtime analysis of an RL hyper-heuristic (RLHH) for the $\textsc{LeadingOnes}$ benchmark, showing that with appropriate parameter values it learns to select between $\textsc{RLS}_1$ and $\textsc{RLS}_2$ effectively.
+  * We prove that RLHH achieves the best possible expected runtime achievable with these two operators up to lower order terms, and experiments indicate it is faster than the Generalised Random Gradient HH for realistic problem sizes.
+  * **Status: PPSN 2026 under review (CCF-B).**
   * Supervisor: Professor Pietro S. Oliveto
 
 <!--
