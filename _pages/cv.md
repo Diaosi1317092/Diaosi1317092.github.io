@@ -53,7 +53,7 @@ Courses
 <!--
 * **GPA:** 3.66/4.00
 -->
-* **Average Mark:** 88.59/100
+* **Average Mark:** 89.25/100
 * **CS217 Data Structures and Algorithm Analysis (Honors)**, Fall 2024  
   * Final Grade: 100/100
 * **CS216 Algorithm Design and Analysis (Honors)**, Spring 2025  
