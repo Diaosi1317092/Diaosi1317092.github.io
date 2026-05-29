@@ -45,12 +45,18 @@ Talks
   {% endfor %}</ul>
 -->
 
-XCPC Awards and Service
+Competitive Programming
 ======
-* **2024 ICPC Hangzhou Regional Contest**: Gold Medal
-* **2024 CCPC Zhengzhou Regional Contest**: Gold Medal
-* **2024 ICPC Shenyang Regional Contest**: Silver Medal
-* **2024 ICPC Asia East Continent Final Contest**: Silver Medal
+
+I am an $\textcolor{orange}{\textbf{International Master}}$ on Codeforces (Max Rating 2314).
+
+## Awards
+* **2024 ICPC Hangzhou Regional Contest**: $\textcolor{gold}{\textbf{Gold Medal}}$
+* **2024 CCPC Zhengzhou Regional Contest**: $\textcolor{gold}{\textbf{Gold Medal}}$
+* **2024 ICPC Shenyang Regional Contest**: $\textcolor{silver}{\textbf{Silver Medal}}$
+* **2024 ICPC Asia East Continent Final Contest**: $\textcolor{silver}{\textbf{Silver Medal}}$
+
+## Problem Setting and Judging
 * **The 3rd Universal Cup Finals**
   * Problem Selection Committee Member
   * Problem Setter
