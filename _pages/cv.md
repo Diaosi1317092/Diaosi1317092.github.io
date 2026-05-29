@@ -13,19 +13,23 @@ Education
 ======
 * B.S. in Computer Science and Technology (Turing Class), Southern University of Science and Technology, 2023
 
-Work Experience
+Research Experience
 ======
+* **Fall 2026: Research Assistant (Expected)**
+  
+  LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique
+  
+  * Supervisor: Professor Benjamin Doerr
+  * Research topic: Mathematical runtime analysis of randomized search heuristics.
+ 
 * **Spring 2025: Research Assistant**
   
   Theory of AI Lab, Southern University of Science and Technology
   
-  *On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics*
-
-  * **Co-first author (theory track).**
-  * We give a rigorous runtime analysis of an RL hyper-heuristic (RLHH) for the *LeadingOnes* benchmark, showing that with appropriate parameter values it learns to select between RLS1 and RLS2 effectively.
-  * We prove that RLHH achieves the best possible expected runtime achievable with these two operators up to lower order terms, and experiments indicate it is faster than the Generalised Random Gradient HH for realistic problem sizes.
-  * **Status: PPSN 2026 under review (CCF-B).**
   * Supervisor: Professor Pietro S. Oliveto
+  * Conducted theoretical research on randomized algorithms and reinforcement learning hyper-heuristics.
+  * Worked on runtime analysis of learning-based selection hyper-heuristics.
+ 
 
 <!--
 Publications
@@ -41,12 +45,16 @@ Talks
   {% endfor %}</ul>
 -->
 
-Awards
+XCPC Awards and Service
 ======
 * **2024 ICPC Hangzhou Regional Contest**: Gold Medal
 * **2024 CCPC Zhengzhou Regional Contest**: Gold Medal
 * **2024 ICPC Shenyang Regional Contest**: Silver Medal
 * **2024 ICPC Asia East Continent Final Contest**: Silver Medal
+* **The 3rd Universal Cup Finals**
+  * Problem Selection Committee Member
+  * Problem Setter
+ 
 
 Courses
 ======
