@@ -10,7 +10,7 @@ author_profile: true
 ### On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics
 
 Prof. Pietro S. Oliveto*, **Zhenyu Wang**, Peizhou Wu, and Mengqing Xu  
-Accepted by PPSN 2026  
+Accepted to PPSN 2026. To appear in the proceedings.
 CCF-B Conference  
 
 \* Corresponding author.  
