@@ -52,8 +52,8 @@ I am an <span style="color: orange; font-weight: bold;">International Master</sp
 
 ## Awards
 
-- **2024 ICPC Hangzhou Regional Contest:** <span style="color: #D4AF37; font-weight: bold;">Gold Medal</span>
-- **2024 CCPC Zhengzhou Regional Contest:** <span style="color: #D4AF37; font-weight: bold;">Gold Medal</span>
+- **2024 ICPC Hangzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
+- **2024 CCPC Zhengzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
 - **2024 ICPC Shenyang Regional Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
 - **2024 ICPC Asia East Continent Final Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
 
