@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conference Papers
-
+Conference Papers
+======
 ## On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics
 
 Prof. Pietro S. Oliveto*, **Zhenyu Wang**, Peizhou Wu, and Mengqing Xu  
