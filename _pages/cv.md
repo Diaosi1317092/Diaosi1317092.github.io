@@ -32,12 +32,6 @@ Research Experience
  
 
 <!--
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -52,10 +46,10 @@ I am an <span style="color: orange; font-weight: bold;">International Master</sp
 
 ## Awards
 
-- **2024 ICPC Hangzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
-- **2024 CCPC Zhengzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
-- **2024 ICPC Shenyang Regional Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
-- **2024 ICPC Asia East Continent Final Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
+- **49th International Collegiate Programming Contest Hangzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
+- **10th China Collegiate Programming Contest Zhengzhou Reginal Contest :** <span style="color: orange; font-weight: bold;">Gold Medal</span>
+- **49th International Collegiate Programming Contest Shenyang Regional Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
+- **49th International Collegiate Programming Contest East-Continent Finals:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
 
 ## Problem Setting and Judging
 * **The 3rd Universal Cup Finals**
