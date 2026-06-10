@@ -69,6 +69,8 @@ redirect_from:
     border: 1px solid var(--cv-border);
     border-radius: 12px;
     background: var(--cv-card-bg);
+    color: var(--cv-text);
+    box-shadow: var(--cv-shadow);
   }
 
   .cv-card.compact {
