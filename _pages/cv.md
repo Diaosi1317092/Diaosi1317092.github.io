@@ -186,25 +186,6 @@ This page summarizes my education, research experience, selected academic activi
 </section>
 
 <section class="cv-section">
-  <h2 class="cv-section-title">Publications</h2>
-
-  <div class="cv-card">
-    <h3 class="cv-card-title">On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</h3>
-    <p class="cv-card-subtitle">
-      Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
-    </p>
-    <p class="cv-meta">
-      Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. <strong>CCF-B Conference.</strong>
-    </p>
-    <ul>
-      <li>* Corresponding author.</li>
-      <li><strong>Zhenyu Wang</strong>: Co-first author for the theory track.</li>
-      <li>Summary: rigorous runtime analysis of reinforcement learning hyper-heuristics, proving near-optimal expected runtime under suitable parameter settings.</li>
-    </ul>
-  </div>
-</section>
-
-<section class="cv-section">
   <h2 class="cv-section-title">Research Experience</h2>
 
   <div class="cv-card">
