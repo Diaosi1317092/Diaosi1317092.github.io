@@ -20,15 +20,17 @@ Research Experience
   LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique
   
   * Supervisor: Professor Benjamin Doerr
-  * Research topic: Mathematical runtime analysis of randomized search heuristics.
+  * Expected to work on the mathematical runtime analysis of randomized search heuristics and hyper-heuristics, with a focus on rigorous theoretical analysis of randomized optimization processes.
+  * Planned research directions include the behavior of hyper-heuristics on multimodal optimization problems, adaptive operator selection, phase transitions in heuristic performance, and more advanced runtime-analysis techniques.
  
 * **Spring 2025: Research Assistant**
   
   Theory of AI Lab, Southern University of Science and Technology
   
   * Supervisor: Professor Pietro S. Oliveto
-  * Conducted theoretical research on randomized algorithms and reinforcement learning hyper-heuristics.
-  * Worked on runtime analysis of learning-based selection hyper-heuristics.
+  * Conducted theoretical research on randomized algorithms, reinforcement learning hyper-heuristics, and runtime analysis of learning-based selection mechanisms.
+  * Studied how parameter settings affect the ability of reinforcement learning hyper-heuristics to identify useful low-level heuristics during the optimization process.
+  * Developed and verified formal runtime arguments using tools from drift analysis, probabilistic inequalities, and randomized search heuristic theory.
  
 
 <!--
@@ -78,37 +80,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-
-Projects
-======
-* **Course Grading System**  
-  * Completed in Spring 2025 as part of the CS304 Software Engineering course
-  * This project involves the development of an innovative academic grading system that integrates multiple grading functions, including code evaluation, handwritten assignment grading, attendance tracking, and AI-driven automatic grading optimization. Key features include automatic OCR-based processing of handwritten assignments, intelligent feedback through real-time grading, and a dispute management system for seamless communication between students and teachers.
-  * The system was built using technologies such as Vue.js for the front-end, Express.js for the back-end, PostgreSQL for the database, OpenCV.js and Google Cloud Vision for image processing, and GPT-4o for intelligent grading.
-  * GitHub Repository: [Course Grading System](https://github.com/sustech-cs304/team-project-25spring-team22)
-  * Final Grade: 100/100
-
-* **Five-stage Pipeline CPU**  
-  * Completed in Spring 2025 as part of the CS202 Computer Organization & Design course
-  * This project involved designing a five-stage pipeline CPU with support for branch prediction.
-  * The development used Verilog on the EGO1 FPGA board, Python for front-end software development, and optimizations such as branch prediction compilation for performance improvement.
-  * GitHub Repository: [Five-stage Pipeline CPU](https://github.com/Diaosi1317092/Computer-Organization-Project)
-  * Final Grade: 115/100
-
-* **Reversed-Reversi**  
-  * Completed in Spring 2025 as part of the CS311 Artificial Intelligence (Honors) course
-  * This project involved implementing an AI algorithm for the Reversed Reversi game, where the AI determines the best move based on a given game state.
-  * The development was done using Python, with libraries such as NumPy and Numba for efficient computation.
-  * GitHub Repository: [Reversed-Reversi](https://github.com/Diaosi1317092/Reversed-Reversi)
-  * Achieved Top 5 Player
-  * Final Grade: 99/100
-
-* **Range Hood Program**  
-  * Completed in Fall 2024 as part of the CS211 Digital Logic (Honors) course
-  * This project involved designing and implementing a range hood control system, including features like time display, fan speed control, and self-cleaning modes.
-  * The development used Verilog on the EGO1 FPGA board, with a 4x4 membrane keyboard for input and an LCD1602 display for output.
-  * GitHub Repository: [Range Hood Program](https://github.com/Diaosi1317092/Digital-Logic-Project)
-  * Final Grade: 115/100
 
 Skills
 ======
