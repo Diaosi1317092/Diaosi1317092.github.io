@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <style>
-<style>
   :root {
     --cv-card-bg: rgba(255, 255, 255, 0.72);
     --cv-border: rgba(120, 120, 120, 0.22);
