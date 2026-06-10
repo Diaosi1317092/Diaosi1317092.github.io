@@ -35,13 +35,14 @@ redirect_from:
     --cv-border: rgba(220, 220, 220, 0.18);
     --cv-muted: #b8b8b8;
     --cv-strong: #f1f1f1;
+    --cv-text: #e5e7eb;
     --cv-accent: #8cc8ff;
+    --cv-card-bg: #1f2937;
     --cv-pill-bg: rgba(140, 200, 255, 0.12);
     --cv-pill-border: rgba(140, 200, 255, 0.30);
     --cv-gold: #ffb000;
     --cv-silver: #c6c6c6;
     --cv-orange: #ff9d2e;
-    --cv-shadow: 0 2px 12px rgba(49, 49, 49, 0.25);
   }
 
   .cv-wrap {
