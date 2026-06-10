@@ -173,7 +173,7 @@ redirect_from:
 <div class="cv-wrap">
 
 <p class="cv-lead">
-This page summarizes my education, research experience, selected academic activities, competitive programming experience, teaching, projects, and technical skills.
+My publication work focuses on rigorous runtime analysis of randomized search heuristics and learning-based hyper-heuristics, with an emphasis on understanding when adaptive mechanisms provably improve optimization performance.
 </p>
 
 <section class="cv-section">
