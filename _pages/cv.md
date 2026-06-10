@@ -259,11 +259,21 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Awards</h3>
-    <ul class="cv-list-clean">
-      <li><strong>49th International Collegiate Programming Contest Hangzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
-      <li><strong>10th China Collegiate Programming Contest Zhengzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
-      <li><strong>49th International Collegiate Programming Contest Shenyang Regional Contest:</strong> <span class="cv-silver">Silver Medal</span></li>
-      <li><strong>49th International Collegiate Programming Contest East-Continent Finals:</strong> <span class="cv-silver">Silver Medal</span></li>
+    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</p>
+    <ul>
+      <li><span class="cv-gold">Gold Medal</span></li>
+    </ul>
+    <p class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</p>
+    <ul>
+      <li><span class="cv-gold">Gold Medal</span></li>
+    </ul>
+    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</p>
+    <ul>
+      <li><span class="cv-silver">Silver Medal</span></li>
+    </ul>
+    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</p>
+    <ul>
+      <li><span class="cv-silver">Silver Medal</span></li>
     </ul>
   </div>
 
