@@ -41,7 +41,6 @@ redirect_from:
     --cv-gold: #ffb000;
     --cv-silver: #c6c6c6;
     --cv-orange: #ff9d2e;
-    --cv-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
   }
 
   .cv-wrap {
