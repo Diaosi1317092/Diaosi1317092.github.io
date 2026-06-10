@@ -9,101 +9,318 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+<style>
+  :root {
+    --cv-card-bg: rgba(255, 255, 255, 0.72);
+    --cv-border: rgba(120, 120, 120, 0.22);
+    --cv-muted: #666;
+    --cv-strong: #222;
+    --cv-accent: #2f6f9f;
+    --cv-pill-bg: rgba(47, 111, 159, 0.10);
+    --cv-pill-border: rgba(47, 111, 159, 0.22);
+    --cv-gold: #d89b00;
+    --cv-silver: #9a9a9a;
+    --cv-orange: #ff8c00;
+  }
 
-### B.S. in Computer Science and Technology (Turing Class)
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --cv-card-bg: rgba(35, 35, 35, 0.60);
+      --cv-border: rgba(220, 220, 220, 0.18);
+      --cv-muted: #b8b8b8;
+      --cv-strong: #f1f1f1;
+      --cv-accent: #8cc8ff;
+      --cv-pill-bg: rgba(140, 200, 255, 0.12);
+      --cv-pill-border: rgba(140, 200, 255, 0.30);
+      --cv-gold: #ffb000;
+      --cv-silver: #c6c6c6;
+      --cv-orange: #ff9d2e;
+    }
+  }
 
-**Southern University of Science and Technology**  
-2023 – Present
+  .cv-wrap {
+    max-width: 900px;
+  }
 
----
+  .cv-lead {
+    margin: 0 0 1.2rem 0;
+    color: var(--cv-muted);
+    font-size: 0.98rem;
+    line-height: 1.65;
+  }
 
-## Publications
+  .cv-section {
+    margin: 1.65rem 0 0.85rem 0;
+  }
 
-### On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics
+  .cv-section-title {
+    margin: 0 0 0.65rem 0;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid var(--cv-border);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--cv-strong);
+    letter-spacing: 0.02em;
+  }
 
-Prof. Pietro S. Oliveto\*, **Zhenyu Wang**, Peizhou Wu, and Mengqing Xu  
+  .cv-card {
+    margin: 0.85rem 0;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--cv-border);
+    border-radius: 12px;
+    background: var(--cv-card-bg);
+  }
 
-\* Corresponding author.  
-**Zhenyu Wang**: Co-first author for the theory track.  
+  .cv-card.compact {
+    padding: 0.85rem 1rem;
+  }
 
-Accepted to **PPSN 2026**, to appear in the proceedings.  
-**CCF-B Conference.**
+  .cv-card-title {
+    margin: 0;
+    font-size: 1.08rem;
+    font-weight: 700;
+    color: var(--cv-strong);
+  }
 
----
+  .cv-card-subtitle {
+    margin: 0.25rem 0 0.35rem 0;
+    color: var(--cv-muted);
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
 
-## Research Experience
+  .cv-meta {
+    margin: 0.35rem 0 0.6rem 0;
+    color: var(--cv-muted);
+    font-size: 0.92rem;
+  }
 
-### Fall 2026 · Research Assistant (Expected)
+  .cv-card p {
+    margin: 0.45rem 0;
+    line-height: 1.62;
+  }
 
-**LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique**  
-**Supervisor:** Professor Benjamin Doerr
+  .cv-card ul {
+    margin: 0.45rem 0 0 1.15rem;
+    padding-left: 0;
+  }
 
-Expected to work on the mathematical runtime analysis of randomized search heuristics and hyper-heuristics, with a focus on rigorous theoretical analysis of randomized optimization processes. Planned research directions include the behavior of hyper-heuristics on multimodal optimization problems, adaptive operator selection, phase transitions in heuristic performance, and more advanced runtime-analysis techniques.
+  .cv-card li {
+    margin: 0.18rem 0;
+    line-height: 1.5;
+  }
 
-### Spring 2025 · Research Assistant
+  .cv-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.85rem;
+  }
 
-**Theory of AI Lab, Southern University of Science and Technology**  
-**Supervisor:** Professor Pietro S. Oliveto
+  @media (min-width: 760px) {
+    .cv-row.two {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
 
-Conducted theoretical research on randomized algorithms, reinforcement learning hyper-heuristics, and runtime analysis of learning-based selection mechanisms. I studied how parameter settings affect the ability of reinforcement learning hyper-heuristics to identify useful low-level heuristics during the optimization process, and developed formal runtime arguments using tools from drift analysis, probabilistic inequalities, and randomized search heuristic theory.
+  .cv-tags {
+    margin-top: 0.55rem;
+  }
 
----
+  .cv-tag {
+    display: inline-block;
+    margin: 0.18rem 0.25rem 0.18rem 0;
+    padding: 0.16rem 0.48rem;
+    border: 1px solid var(--cv-pill-border);
+    border-radius: 999px;
+    background: var(--cv-pill-bg);
+    color: var(--cv-accent);
+    font-size: 0.82rem;
+    white-space: nowrap;
+  }
 
-## Competitive Programming
+  .cv-gold {
+    color: var(--cv-gold);
+    font-weight: 700;
+  }
 
-I am an <span style="color: orange; font-weight: bold;">International Master</span> on Codeforces, with a maximum rating of **2314**.
+  .cv-silver {
+    color: var(--cv-silver);
+    font-weight: 700;
+  }
 
-### Awards
+  .cv-orange {
+    color: var(--cv-orange);
+    font-weight: 700;
+  }
 
-- **49th International Collegiate Programming Contest Hangzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
-- **10th China Collegiate Programming Contest Zhengzhou Regional Contest:** <span style="color: orange; font-weight: bold;">Gold Medal</span>
-- **49th International Collegiate Programming Contest Shenyang Regional Contest:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
-- **49th International Collegiate Programming Contest East-Continent Finals:** <span style="color: #C0C0C0; font-weight: bold;">Silver Medal</span>
+  .cv-list-clean {
+    list-style: none;
+    margin-left: 0 !important;
+  }
 
-### Problem Setting and Judging
+  .cv-list-clean li {
+    margin: 0.45rem 0;
+  }
 
-**The 3rd Universal Cup Finals**
+  .cv-small {
+    color: var(--cv-muted);
+    font-size: 0.92rem;
+  }
+</style>
 
-- Problem Selection Committee Member
-- Problem Setter
+<div class="cv-wrap">
 
----
+<p class="cv-lead">
+This page summarizes my education, research experience, selected academic activities, competitive programming experience, teaching, projects, and technical skills.
+</p>
 
-## Courses
+<section class="cv-section">
+  <h2 class="cv-section-title">Education</h2>
 
-**Average Mark:** 89.25/100
+  <div class="cv-card compact">
+    <h3 class="cv-card-title">B.S. in Computer Science and Technology (Turing Class)</h3>
+    <p class="cv-card-subtitle">Southern University of Science and Technology, 2023–Present</p>
+  </div>
+</section>
 
-### Selected Courses
+<section class="cv-section">
+  <h2 class="cv-section-title">Publications</h2>
 
-- **CS217 Data Structures and Algorithm Analysis (Honors)**, Fall 2024  
-  Final Grade: **100/100**
+  <div class="cv-card">
+    <h3 class="cv-card-title">On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</h3>
+    <p class="cv-card-subtitle">
+      Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
+    </p>
+    <p class="cv-meta">
+      Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. <strong>CCF-B Conference.</strong>
+    </p>
+    <ul>
+      <li>* Corresponding author.</li>
+      <li><strong>Zhenyu Wang</strong>: Co-first author for the theory track.</li>
+      <li>Summary: rigorous runtime analysis of reinforcement learning hyper-heuristics, proving near-optimal expected runtime under suitable parameter settings.</li>
+    </ul>
+  </div>
+</section>
 
-- **CS216 Algorithm Design and Analysis (Honors)**, Spring 2025  
-  Final Grade: **99/100**
+<section class="cv-section">
+  <h2 class="cv-section-title">Research Experience</h2>
 
----
+  <div class="cv-card">
+    <h3 class="cv-card-title">Research Assistant <span class="cv-small">(Expected)</span></h3>
+    <p class="cv-card-subtitle">
+      LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique
+    </p>
+    <p class="cv-meta">Fall 2026 · Supervisor: Professor Benjamin Doerr</p>
+    <p>
+      Expected to work on the mathematical runtime analysis of randomized search heuristics and hyper-heuristics, with a focus on rigorous theoretical analysis of randomized optimization processes.
+    </p>
+    <p>
+      Planned research directions include the behavior of hyper-heuristics on multimodal optimization problems, adaptive operator selection, phase transitions in heuristic performance, and more advanced runtime-analysis techniques.
+    </p>
+    <div class="cv-tags">
+      <span class="cv-tag">Randomized Search Heuristics</span>
+      <span class="cv-tag">Runtime Analysis</span>
+      <span class="cv-tag">Hyper-Heuristics</span>
+      <span class="cv-tag">Multimodal Optimization</span>
+    </div>
+  </div>
 
-## Teaching
+  <div class="cv-card">
+    <h3 class="cv-card-title">Research Assistant</h3>
+    <p class="cv-card-subtitle">
+      Theory of AI Lab, Southern University of Science and Technology
+    </p>
+    <p class="cv-meta">Spring 2025 · Supervisor: Professor Pietro S. Oliveto</p>
+    <p>
+      Conducted theoretical research on randomized algorithms, reinforcement learning hyper-heuristics, and runtime analysis of learning-based selection mechanisms.
+    </p>
+    <p>
+      Studied how parameter settings affect the ability of reinforcement learning hyper-heuristics to identify useful low-level heuristics during the optimization process, and developed formal runtime arguments using tools from drift analysis, probabilistic inequalities, and randomized search heuristic theory.
+    </p>
+    <div class="cv-tags">
+      <span class="cv-tag">Theory of AI</span>
+      <span class="cv-tag">Reinforcement Learning Hyper-Heuristics</span>
+      <span class="cv-tag">Drift Analysis</span>
+      <span class="cv-tag">Randomized Algorithms</span>
+    </div>
+  </div>
+</section>
 
-### CS217 Data Structures and Algorithm Analysis (Honors)
+<section class="cv-section">
+  <h2 class="cv-section-title">Competitive Programming</h2>
 
-**Fall 2025**  
-Role: **Teaching Assistant**
+  <div class="cv-card compact">
+    <p>
+      I am an <span class="cv-orange">International Master</span> on Codeforces (Max Rating 2314).
+    </p>
+  </div>
 
----
+  <div class="cv-row two">
+    <div class="cv-card">
+      <h3 class="cv-card-title">Awards</h3>
+      <ul class="cv-list-clean">
+        <li><strong>49th International Collegiate Programming Contest Hangzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
+        <li><strong>10th China Collegiate Programming Contest Zhengzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
+        <li><strong>49th International Collegiate Programming Contest Shenyang Regional Contest:</strong> <span class="cv-silver">Silver Medal</span></li>
+        <li><strong>49th International Collegiate Programming Contest East-Continent Finals:</strong> <span class="cv-silver">Silver Medal</span></li>
+      </ul>
+    </div>
 
-## Skills
+    <div class="cv-card">
+      <h3 class="cv-card-title">Problem Setting and Judging</h3>
+      <p class="cv-card-subtitle">The 3rd Universal Cup Finals</p>
+      <ul>
+        <li>Problem Selection Committee Member</li>
+        <li>Problem Setter</li>
+      </ul>
+    </div>
+  </div>
+</section>
 
-### Programming
+<section class="cv-section">
+  <h2 class="cv-section-title">Courses</h2>
 
-- Modern C++
-- Python
-- Rust
-- Verilog, hardware development
-- JavaScript, front-end development
+  <div class="cv-card compact">
+    <p><strong>Average Mark:</strong> 89.25/100</p>
+    <ul>
+      <li><strong>CS217 Data Structures and Algorithm Analysis (Honors)</strong>, Fall 2024 — Final Grade: 100/100</li>
+      <li><strong>CS216 Algorithm Design and Analysis (Honors)</strong>, Spring 2025 — Final Grade: 99/100</li>
+    </ul>
+  </div>
+</section>
 
-### Languages
+<section class="cv-section">
+  <h2 class="cv-section-title">Teaching</h2>
 
-- Chinese, native
-- English, fluent
+  <div class="cv-card compact">
+    <h3 class="cv-card-title">Teaching Assistant</h3>
+    <p class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors), Fall 2025</p>
+  </div>
+</section>
+
+<section class="cv-section">
+  <h2 class="cv-section-title">Skills</h2>
+
+  <div class="cv-row two">
+    <div class="cv-card compact">
+      <h3 class="cv-card-title">Programming</h3>
+      <div class="cv-tags">
+        <span class="cv-tag">Modern C++</span>
+        <span class="cv-tag">Python</span>
+        <span class="cv-tag">Rust</span>
+        <span class="cv-tag">Verilog</span>
+        <span class="cv-tag">JavaScript</span>
+      </div>
+    </div>
+
+    <div class="cv-card compact">
+      <h3 class="cv-card-title">Languages</h3>
+      <div class="cv-tags">
+        <span class="cv-tag">Chinese: Native</span>
+        <span class="cv-tag">English: Fluent</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+</div>
