@@ -170,6 +170,10 @@ author_profile: true
 
 <div class="cv-wrap">
 
+<p class="cv-lead">
+My selected projects cover full-stack software engineering, computer architecture, artificial intelligence, and FPGA-based digital system design, reflecting both algorithmic problem solving and hands-on system implementation.
+</p>
+
 <section class="cv-section">
   <h2 class="cv-section-title">Projects</h2>
 
