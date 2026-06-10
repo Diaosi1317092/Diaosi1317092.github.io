@@ -257,25 +257,23 @@ This page summarizes my education, research experience, selected academic activi
     </p>
   </div>
 
-  <div class="cv-row two">
-    <div class="cv-card">
-      <h3 class="cv-card-title">Awards</h3>
-      <ul class="cv-list-clean">
-        <li><strong>49th International Collegiate Programming Contest Hangzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
-        <li><strong>10th China Collegiate Programming Contest Zhengzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
-        <li><strong>49th International Collegiate Programming Contest Shenyang Regional Contest:</strong> <span class="cv-silver">Silver Medal</span></li>
-        <li><strong>49th International Collegiate Programming Contest East-Continent Finals:</strong> <span class="cv-silver">Silver Medal</span></li>
-      </ul>
-    </div>
+  <div class="cv-card compact">
+    <h3 class="cv-card-title">Awards</h3>
+    <ul class="cv-list-clean">
+      <li><strong>49th International Collegiate Programming Contest Hangzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
+      <li><strong>10th China Collegiate Programming Contest Zhengzhou Regional Contest:</strong> <span class="cv-gold">Gold Medal</span></li>
+      <li><strong>49th International Collegiate Programming Contest Shenyang Regional Contest:</strong> <span class="cv-silver">Silver Medal</span></li>
+      <li><strong>49th International Collegiate Programming Contest East-Continent Finals:</strong> <span class="cv-silver">Silver Medal</span></li>
+    </ul>
+  </div>
 
-    <div class="cv-card">
-      <h3 class="cv-card-title">Problem Setting and Judging</h3>
-      <p class="cv-card-subtitle">The 3rd Universal Cup Finals</p>
-      <ul>
-        <li>Problem Selection Committee Member</li>
-        <li>Problem Setter</li>
-      </ul>
-    </div>
+  <div class="cv-card compact">
+    <h3 class="cv-card-title">Problem Setting and Judging</h3>
+    <p class="cv-card-subtitle">The 3rd Universal Cup Finals</p>
+    <ul>
+      <li>Problem Selection Committee Member</li>
+      <li>Problem Setter</li>
+    </ul>
   </div>
 </section>
 
