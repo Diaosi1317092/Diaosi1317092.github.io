@@ -10,40 +10,35 @@ redirect_from:
 {% include base_path %}
 
 <style>
+<style>
   :root {
-    --cv-card-bg: #ffffff;
-    --cv-border: #e5e7eb;
+    --cv-card-bg: rgba(255, 255, 255, 0.72);
+    --cv-border: rgba(120, 120, 120, 0.22);
     --cv-muted: #666;
     --cv-strong: #222;
-    --cv-text: #333;
     --cv-accent: #2f6f9f;
     --cv-pill-bg: rgba(47, 111, 159, 0.10);
     --cv-pill-border: rgba(47, 111, 159, 0.22);
     --cv-gold: #d89b00;
     --cv-silver: #9a9a9a;
     --cv-orange: #ff8c00;
-    --cv-border: #e5e7eb;
-    --cv-shadow: 0 4px 14px rgba(15, 23, 42, 0.08);
   }
 
-  html.dark,
-  body.dark,
-  [data-theme="dark"],
-  .dark-theme,
-  .theme--dark {
-    --cv-card-bg: rgba(35, 35, 35, 0.60);
-    --cv-border: rgba(220, 220, 220, 0.18);
-    --cv-muted: #b8b8b8;
-    --cv-strong: #f1f1f1;
-    --cv-text: #e5e7eb;
-    --cv-accent: #8cc8ff;
-    --cv-card-bg: #1f2937;
-    --cv-pill-bg: rgba(140, 200, 255, 0.12);
-    --cv-pill-border: rgba(140, 200, 255, 0.30);
-    --cv-gold: #ffb000;
-    --cv-silver: #c6c6c6;
-    --cv-orange: #ff9d2e;
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --cv-card-bg: rgba(35, 35, 35, 0.60);
+      --cv-border: rgba(220, 220, 220, 0.18);
+      --cv-muted: #b8b8b8;
+      --cv-strong: #f1f1f1;
+      --cv-accent: #8cc8ff;
+      --cv-pill-bg: rgba(140, 200, 255, 0.12);
+      --cv-pill-border: rgba(140, 200, 255, 0.30);
+      --cv-gold: #ffb000;
+      --cv-silver: #c6c6c6;
+      --cv-orange: #ff9d2e;
+    }
   }
+
 
   .cv-wrap {
     max-width: 900px;
