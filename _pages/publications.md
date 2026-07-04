@@ -185,7 +185,9 @@ My publication work focuses on rigorous runtime analysis of randomized search he
 
 <section class="cv-section">
   <h2 class="cv-section-title">Conference Papers</h2>
-
+  <p class="cv-lead">
+  In Theoretical Computer Science, the authors are usually listed in alphabetical order.
+  </p>
   <div class="cv-card">
     <h3 class="cv-card-title">On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</h3>
     <p class="cv-card-subtitle">
@@ -195,8 +197,6 @@ My publication work focuses on rigorous runtime analysis of randomized search he
       Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. <strong>CCF-B Conference.</strong>
     </p>
     <ul>
-      <li>* Corresponding author.</li>
-      <li><strong>Zhenyu Wang</strong>: Co-first author for the theory track.</li>
       <details>
         <summary>Abstract</summary>
 Selection Hyper-heuristics (HHs) automate algorithmic design by selecting from a set of low-level heuristics which one to apply at each stage of the optimisation process. Several impressive results have been recently rigorously proven regarding the performance of selection hyper-heuristics (HHs) for standard benchmark functions. However, the learning mechanisms employed by these HHs are considerably simplified compared to the machine learning techniques typically employed in real world applications.
