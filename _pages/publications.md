@@ -194,7 +194,7 @@ My publication work focuses on rigorous runtime analysis of randomized search he
       Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
     </p>
     <p class="cv-meta">
-      Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. <strong>CCF-B Conference.</strong>
+      Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. CCF-B Conference.
     </p>
     <ul>
       <details>
