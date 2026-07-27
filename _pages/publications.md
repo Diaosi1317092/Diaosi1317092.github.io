@@ -207,9 +207,16 @@ Experiments show that for realistic problem sizes it is faster than the Generali
 
       </details>
     </ul>
-  <div class="cv-tags">
-      <span class="cv-tag">[arXiv](https://arxiv.org/pdf/2607.22036)</span>
-    </div>
+<div class="cv-tags">
+  <a
+    class="cv-tag"
+    href="https://arxiv.org/pdf/2607.22036"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    arXiv
+  </a>
+</div>
   </div>
 </section>
 
