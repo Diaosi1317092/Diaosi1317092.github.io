@@ -207,6 +207,9 @@ Experiments show that for realistic problem sizes it is faster than the Generali
 
       </details>
     </ul>
+  <div class="cv-tags">
+      <span class="cv-tag">[arXiv](https://arxiv.org/pdf/2607.22036)</span>
+    </div>
   </div>
 </section>
 
