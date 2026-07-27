@@ -316,7 +316,7 @@ This page summarizes my education, research experience, selected academic activi
       <h3 class="cv-card-title">Languages</h3>
       <div class="cv-tags">
         <span class="cv-tag">Chinese: Native</span>
-        <span class="cv-tag">English: Fluent</span>
+        <span class="cv-tag">English: 90/120 TOEFL iBT</span>
       </div>
     </div>
   </div>
