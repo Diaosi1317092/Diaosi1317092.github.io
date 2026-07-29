@@ -288,7 +288,7 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Courses</h2>
 
   <div class="cv-card compact">
-    <p><strong>Average Mark:</strong> 89.93/100</p>
+    <h2 class="cv-section-title">Average Mark: <span class="cv-small">89.93/100</span></h2>
      <p class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors), Fall 2024 — Final Grade: 100/100</p>
      <p class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors), Spring 2025 — Final Grade: 99/100</p>
      <p class="cv-card-subtitle">CS342 Optimization Methods, Spring 2026 — Final Grade: 100/100</p>
