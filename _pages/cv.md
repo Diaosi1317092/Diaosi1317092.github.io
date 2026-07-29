@@ -189,8 +189,10 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Education</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">B.S. in Computer Science and Technology (Turing Class)</h3>
-    <span style="white-space: nowrap; margin-left: 12px;">2023 – Present</span>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">B.S. in Computer Science and Technology <span class="cv-small">(Turing Class)</span></span>
+      <span style="white-space: nowrap; margin-left: 12px;">2023 – Present</span>
+    </div>
     <p class="cv-card-subtitle">Southern University of Science and Technology</p>
   </div>
 </section>
