@@ -189,12 +189,15 @@ My publication work focuses on rigorous runtime analysis of randomized search he
   In Theoretical Computer Science, the authors are usually listed in alphabetical order.
   </p>
   <div class="cv-card">
-    <h3 class="cv-card-title">On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</h3>
+    <h3 class="cv-card-title" style="display: flex; justify-content: space-between; align-items: center;">
+  <span>On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</span>
+    <span style="font-size: 0.9em; font-weight: normal; color: #666;">PPSN</span>
+  </h3>
     <p class="cv-card-subtitle">
       Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
     </p>
     <p class="cv-meta">
-      Accepted to <strong>PPSN 2026</strong>, to appear in the proceedings. CCF-B Conference.
+      To appear in the proceedings. CCF-B Conference.
     </p>
     <ul>
       <details>
