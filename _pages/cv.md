@@ -249,22 +249,26 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Awards</h3>
-    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</p>
-    <ul>
-      <li><span class="cv-gold">Gold Medal</span></li>
-    </ul>
-    <p class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</p>
-    <ul>
-      <li><span class="cv-gold">Gold Medal</span></li>
-    </ul>
-    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</p>
-    <ul>
-      <li><span class="cv-silver">Silver Medal</span></li>
-    </ul>
-    <p class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</p>
-    <ul>
-      <li><span class="cv-silver">Silver Medal</span></li>
-    </ul>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</span>
+      <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
+    </div>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</span>
+      <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
+    </div>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</span>
+      <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
+    </div>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</span>
+      <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
+    </div>
   </div>
 
   <div class="cv-card compact">
