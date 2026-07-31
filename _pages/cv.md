@@ -288,10 +288,20 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Courses</h2>
 
   <div class="cv-card compact">
+    <h3 class="cv-card-title">GPA: <span class="cv-small">3.70/4.00</span></h3>
     <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100</span></h3>
-     <p class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors), Fall 2024 — Final Grade: 100/100</p>
-     <p class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors), Spring 2025 — Final Grade: 99/100</p>
-     <p class="cv-card-subtitle">CS342 Optimization Methods, Spring 2026 — Final Grade: 100/100</p>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Fall 2024 — Final Grade: 100/100</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors)</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Spring 2025 — Final Grade: 99/100</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+      <span class="cv-card-subtitle">CS342 Optimization Methods</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Spring 2026 — Final Grade: 100/100</span>
+    </div>
   </div>
 </section>
 
