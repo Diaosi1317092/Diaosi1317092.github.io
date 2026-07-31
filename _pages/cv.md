@@ -253,22 +253,22 @@ This page summarizes my education, research experience, selected academic activi
   <div class="cv-card compact">
     <h3 class="cv-card-title">Awards</h3>
   
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
   
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
   
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
     </div>
   
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
     </div>
@@ -288,17 +288,16 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Courses</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">GPA: <span class="cv-small">3.70/4.00</span></h3>
-    <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100</span></h3>
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100, 3.70/4.00</span></h3>
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
       <span style="white-space: nowrap; margin-left: 12px;">Fall 2024 — Final Grade: 100/100</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;;">
       <span class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors)</span>
       <span style="white-space: nowrap; margin-left: 12px;">Spring 2025 — Final Grade: 99/100</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;;">
       <span class="cv-card-subtitle">CS342 Optimization Methods</span>
       <span style="white-space: nowrap; margin-left: 12px;">Spring 2026 — Final Grade: 100/100</span>
     </div>
