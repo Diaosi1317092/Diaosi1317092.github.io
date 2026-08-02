@@ -252,22 +252,18 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Awards</h3>
-  
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
-  
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
-  
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
     </div>
-  
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
@@ -330,12 +326,11 @@ This page summarizes my education, research experience, selected academic activi
         <span class="cv-tag">JavaScript</span>
       </div>
     </div>
-
     <div class="cv-card compact">
       <h3 class="cv-card-title">Languages</h3>
       <div class="cv-tags">
         <span class="cv-tag">Chinese: Native</span>
-        <span class="cv-tag">English: 90/120 TOEFL iBT</span>
+        <span class="cv-tag">English: 100/120 TOEFL iBT</span>
       </div>
     </div>
   </div>
