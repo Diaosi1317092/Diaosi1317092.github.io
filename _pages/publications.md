@@ -186,7 +186,7 @@ My publication work focuses on rigorous runtime analysis of randomized search he
 <section class="cv-section">
   <h2 class="cv-section-title">Conference Papers</h2>
   <p class="cv-lead">
-  In Theoretical Computer Science, the authors are usually listed in alphabetical order.
+  The authors are listed in alphabetical order.
   </p>
   <div class="cv-card">
     <h3 class="cv-card-title" style="display: flex; justify-content: space-between; align-items: center;">
