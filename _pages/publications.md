@@ -219,8 +219,6 @@ Experiments show that for realistic problem sizes it is faster than the Generali
   >
     arXiv
   </a>
-</div>
-<div class="cv-tags">
   <a
     class="cv-tag"
     href="https://link.springer.com/chapter/10.1007/978-3-032-36214-8_8"
