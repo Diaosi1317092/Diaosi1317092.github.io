@@ -195,9 +195,7 @@ My publication work focuses on rigorous runtime analysis of randomized search he
   </h3>
     <p class="cv-card-subtitle">
       Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
-    </p>
-    <p class="cv-meta">
-      CCF-B Conference.
+      <span style="white-space: nowrap; margin-left: 12px;">CCF-B Conference</span>
     </p>
     <ul>
       <details>
