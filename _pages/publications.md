@@ -197,7 +197,7 @@ My publication work focuses on rigorous runtime analysis of randomized search he
       Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
     </p>
     <p class="cv-meta">
-      To appear in the proceedings. CCF-B Conference.
+      CCF-B Conference.
     </p>
     <ul>
       <details>
@@ -218,6 +218,16 @@ Experiments show that for realistic problem sizes it is faster than the Generali
     rel="noopener noreferrer"
   >
     arXiv
+  </a>
+</div>
+<div class="cv-tags">
+  <a
+    class="cv-tag"
+    href="https://link.springer.com/chapter/10.1007/978-3-032-36214-8_8"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Proceeding
   </a>
 </div>
   </div>
