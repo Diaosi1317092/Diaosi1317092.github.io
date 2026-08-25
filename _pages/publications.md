@@ -193,9 +193,9 @@ My publication work focuses on rigorous runtime analysis of randomized search he
   <span>On the Runtime Analysis of Reinforcement Learning Hyper-Heuristics</span>
     <span style="white-space: nowrap; margin-left: 12px;">PPSN 2026</span>
   </h3>
-    <p class="cv-card-subtitle">
-      Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu
-      <span style="white-space: nowrap; margin-left: 12px;">CCF-B Conference</span>
+    <p class="cv-card-subtitle" style="display: flex; align-items: center;">
+      <span>Prof. Pietro S. Oliveto*, <strong>Zhenyu Wang</strong>, Peizhou Wu, and Mengqing Xu</span>
+      <span style="white-space: nowrap; margin-left: 12px;">CCF-B</span>
     </p>
     <ul>
       <details>
