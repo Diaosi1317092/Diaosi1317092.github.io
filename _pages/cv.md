@@ -233,7 +233,6 @@ This page summarizes my education, research experience, selected academic activi
       Studied how parameter settings affect the ability of reinforcement learning hyper-heuristics to identify useful low-level heuristics during the optimization process, and developed formal runtime arguments using tools from drift analysis, probabilistic inequalities, and randomized search heuristic theory.
     </p>
     <div class="cv-tags">
-      <span class="cv-tag">Theory of AI</span>
       <span class="cv-tag">Reinforcement Learning Hyper-Heuristics</span>
       <span class="cv-tag">Drift Analysis</span>
       <span class="cv-tag">Randomized Algorithms</span>
