@@ -201,7 +201,7 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Research Experience</h2>
 
   <div class="cv-card">
-    <h3 class="cv-card-title">Research Assistant <span class="cv-small">(Expected)</span></h3>
+    <h3 class="cv-card-title">Research Assistant</h3>
     <p class="cv-card-subtitle">
       LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique
     </p>
