@@ -304,7 +304,9 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Selected Coursework</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100</span></h3>
+    <h3 class="cv-card-title">Overall Average Mark: <span class="cv-small">89.93/100</span></h3>
+
+    <h3 class="cv-card-title"GPA: <span class="cv-small">3.7/4.0</span></h3>
 
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
