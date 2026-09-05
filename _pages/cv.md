@@ -304,28 +304,32 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Selected Coursework</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Overall Average Mark: <span class="cv-small">89.93/100</span></h3>
-
-    <h3 class="cv-card-title"GPA: <span class="cv-small">3.7/4.0</span></h3>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
+    <h3 class="cv-card-title" style="margin-bottom: 0.25rem;">
+      Overall Average Mark:
+      <span class="cv-small">89.93/100</span>
+      &nbsp;&nbsp;|&nbsp;&nbsp;
+      GPA:
+      <span class="cv-small">3.70/4.00</span>
+    </h3>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.06rem 0;">
+      <span class="cv-card-subtitle" style="margin: 0;">CS217 Data Structures and Algorithm Analysis (Honors)</span>
       <span style="white-space: nowrap; margin-left: 12px;">Fall 2024 — 100/100</span>
     </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors)</span>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.06rem 0;">
+      <span class="cv-card-subtitle" style="margin: 0;">CS216 Algorithm Design and Analysis (Honors)</span>
       <span style="white-space: nowrap; margin-left: 12px;">Spring 2025 — 99/100</span>
     </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">CS342 Optimization Methods</span>
+  
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.06rem 0;">
+      <span class="cv-card-subtitle" style="margin: 0;">CS342 Optimization Methods</span>
       <span style="white-space: nowrap; margin-left: 12px;">Spring 2026 — 100/100</span>
     </div>
-
-    <p class="cv-card-subtitle">CS215 Discrete Mathematics (Honors)</p>
-    <p class="cv-card-subtitle">CS338 Introduction to Theory of Computation</p>
-    <p class="cv-card-subtitle">STA219 Probability and Statistics for Engineering</p>
+  
+    <p class="cv-card-subtitle" style="margin: 0.06rem 0;">CS215 Discrete Mathematics (Honors)</p>
+    <p class="cv-card-subtitle" style="margin: 0.06rem 0;">CS338 Introduction to Theory of Computation</p>
+    <p class="cv-card-subtitle" style="margin: 0.06rem 0;">STA219 Probability and Statistics for Engineering</p>
   </div>
 </section>
 
