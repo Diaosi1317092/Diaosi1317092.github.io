@@ -268,28 +268,28 @@ This page summarizes my education, research experience, selected academic activi
   </div>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Awards</h3>
+  <h3 class="cv-card-title">Awards</h3>
 
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th ICPC Hangzhou Regional Contest</span>
-      <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
-    </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 10th CCPC Zhengzhou Regional Contest</span>
-      <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
-    </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th ICPC Shenyang Regional Contest</span>
-      <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
-    </div>
-
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th ICPC Asia East Continent Final Contest</span>
-      <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
-    </div>
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Hangzhou Regional Contest</span>
+    <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
   </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+    <span class="cv-card-subtitle" style="margin: 0;">The 10th CCPC Zhengzhou Regional Contest</span>
+    <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Shenyang Regional Contest</span>
+    <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Asia East Continent Final Contest</span>
+    <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
+  </div>
+</div>
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Problem Setting</h3>
