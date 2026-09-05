@@ -343,7 +343,7 @@ This page summarizes my education, research experience, selected academic activi
 
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
-      <span style="white-space: nowrap; margin-left: 12px;">Teaching Assistant · Fall 2025</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Teaching Assistant — Fall 2025</span>
     </div>
   </div>
 </section>
