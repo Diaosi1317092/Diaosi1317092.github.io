@@ -182,7 +182,7 @@ redirect_from:
 <div class="cv-wrap">
 
 <p class="cv-lead">
-This page summarizes my education, research experience, selected academic activities, competitive programming experience, teaching, projects, and technical skills.
+This page summarizes my education, research experience, selected academic activities, competitive programming experience, teaching, and technical skills.
 </p>
 
 <section class="cv-section">
@@ -198,7 +198,11 @@ This page summarizes my education, research experience, selected academic activi
 </section>
 
 <section class="cv-section">
-  <h2 class="cv-section-title">Research Experience</h2>
+  <h2 class="cv-section-title">Research Interests & Experience</h2>
+
+  <p class="cv-lead">
+    My research interests include randomized algorithms, algorithms and complexity, probabilistic analysis of algorithms, and the theoretical foundations of randomized search heuristics.
+  </p>
 
   <div class="cv-card">
     <h3 class="cv-card-title">Research Assistant</h3>
@@ -206,17 +210,22 @@ This page summarizes my education, research experience, selected academic activi
       LIX – Laboratoire d’informatique de l’École polytechnique, École Polytechnique
     </p>
     <p class="cv-meta">Fall 2026 · Supervisor: Professor Benjamin Doerr</p>
+
     <p>
-      Expected to work on the mathematical runtime analysis of randomized search heuristics and hyper-heuristics, with a focus on rigorous theoretical analysis of randomized optimization processes.
+      Working on the theoretical analysis of multi-objective evolutionary algorithms and randomized search heuristics.
     </p>
     <p>
-      Planned research directions include the behavior of hyper-heuristics on multimodal optimization problems, adaptive operator selection, phase transitions in heuristic performance, and more advanced runtime-analysis techniques.
+      Characterizing how population dynamics and selection mechanisms determine the progress of the underlying randomized search process.
     </p>
+    <p>
+      Establishing runtime bounds and identifying algorithmic or parameter regimes that yield provably improved asymptotic performance.
+    </p>
+
     <div class="cv-tags">
+      <span class="cv-tag">Multi-Objective Evolutionary Algorithms</span>
       <span class="cv-tag">Randomized Search Heuristics</span>
+      <span class="cv-tag">Population Dynamics</span>
       <span class="cv-tag">Runtime Analysis</span>
-      <span class="cv-tag">Hyper-Heuristics</span>
-      <span class="cv-tag">Multimodal Optimization</span>
     </div>
   </div>
 
@@ -226,16 +235,22 @@ This page summarizes my education, research experience, selected academic activi
       Theory of AI Lab, Southern University of Science and Technology
     </p>
     <p class="cv-meta">Spring 2025 · Supervisor: Professor Pietro S. Oliveto</p>
+
     <p>
-      Conducted theoretical research on randomized algorithms, reinforcement learning hyper-heuristics, and runtime analysis of learning-based selection mechanisms.
+      Conducted runtime analysis of hyper-heuristics, studying when learning-based selection mechanisms can identify the most effective search operators at different stages of an optimization process.
     </p>
     <p>
-      Studied how parameter settings affect the ability of reinforcement learning hyper-heuristics to identify useful low-level heuristics during the optimization process, and developed formal runtime arguments using tools from drift analysis, probabilistic inequalities, and randomized search heuristic theory.
+      Analyzed parameter adaptation and operator-selection dynamics on Pseudo-Boolean functions, using drift analysis, concentration inequalities, martingales, and stochastic-process techniques to establish asymptotic performance guarantees.
     </p>
+    <p>
+      This work resulted in publications at PPSN 2026 and a manuscript under review at AAAI 2027.
+    </p>
+
     <div class="cv-tags">
-      <span class="cv-tag">Reinforcement Learning Hyper-Heuristics</span>
+      <span class="cv-tag">Hyper-Heuristics</span>
+      <span class="cv-tag">Adaptive Operator Selection</span>
       <span class="cv-tag">Drift Analysis</span>
-      <span class="cv-tag">Randomized Algorithms</span>
+      <span class="cv-tag">Stochastic Processes</span>
     </div>
   </div>
 </section>
@@ -245,57 +260,70 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <p>
+      I have been deeply involved in competitive programming, both as a contestant and a problem setter, and have received several awards in algorithmic competitions.
+    </p>
+    <p>
       I am an <span class="cv-orange">International Master</span> on Codeforces (Max Rating 2314).
     </p>
   </div>
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Awards</h3>
+
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Hangzhou Regional Contest</span>
+      <span class="cv-card-subtitle">The 49th ICPC Hangzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
+
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 10th China Collegiate Programming Contest Zhengzhou Regional Contest</span>
+      <span class="cv-card-subtitle">The 10th CCPC Zhengzhou Regional Contest</span>
       <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
     </div>
+
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest Shenyang Regional Contest</span>
+      <span class="cv-card-subtitle">The 49th ICPC Shenyang Regional Contest</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
     </div>
+
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 49th International Collegiate Programming Contest East-Continent Finals</span>
+      <span class="cv-card-subtitle">The 49th ICPC Asia East Continent Final Contest</span>
       <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
     </div>
   </div>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Problem Setting and Judging</h3>
-    <p class="cv-card-subtitle">The 3rd Universal Cup Finals</p>
-    <ul>
-      <li>Problem Selection Committee Member</li>
-      <li>Problem Setter</li>
-    </ul>
+    <h3 class="cv-card-title">Problem Setting</h3>
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <span class="cv-card-subtitle">The 3rd Universal Cup Finals</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Problem Setter</span>
+    </div>
   </div>
 </section>
 
 <section class="cv-section">
-  <h2 class="cv-section-title">Courses</h2>
+  <h2 class="cv-section-title">Selected Coursework</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100, 3.70/4.00</span></h3>
+    <h3 class="cv-card-title">Average Mark: <span class="cv-small">89.93/100</span></h3>
+
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
-      <span style="white-space: nowrap; margin-left: 12px;">Fall 2024 — Final Grade: 100/100</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Fall 2024 — 100/100</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;;">
+
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS216 Algorithm Design and Analysis (Honors)</span>
-      <span style="white-space: nowrap; margin-left: 12px;">Spring 2025 — Final Grade: 99/100</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Spring 2025 — 99/100</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;;">
+
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS342 Optimization Methods</span>
-      <span style="white-space: nowrap; margin-left: 12px;">Spring 2026 — Final Grade: 100/100</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Spring 2026 — 100/100</span>
     </div>
+
+    <p class="cv-card-subtitle">CS215 Discrete Mathematics (Honors)</p>
+    <p class="cv-card-subtitle">CS338 Introduction to Theory of Computation</p>
+    <p class="cv-card-subtitle">STA219 Probability and Statistics for Engineering</p>
   </div>
 </section>
 
@@ -303,10 +331,13 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Teaching</h2>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Teaching Assistant</h3>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;;">
+    <p>
+      Assisted with tutorials, grading, and student support for an honors-level algorithms course.
+    </p>
+
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
-      <span style="white-space: nowrap; margin-left: 12px;">Fall 2025</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Teaching Assistant · Fall 2025</span>
     </div>
   </div>
 </section>
