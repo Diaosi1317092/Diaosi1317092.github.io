@@ -259,7 +259,7 @@ This page summarizes my education, research experience, selected academic activi
   <h2 class="cv-section-title">Competitive Programming</h2>
 
   <p class="cv-lead">
-  I have been deeply involved in competitive programming, both as a contestant and a problem setter, and have received several awards in algorithmic competitions.
+  I have been deeply involved in competitive programming, both as a contestant and a problem setter, and have received several awards in competitions.
   I am an <span class="cv-orange">International Master</span> on Codeforces (Max Rating 2314).
   </p>
 
