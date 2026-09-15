@@ -347,7 +347,7 @@ This page summarizes my education, research experience, selected academic activi
 <section class="cv-section">
   <h2 class="cv-section-title">Skills</h2>
   <p class="cv-lead">
-  I'm a fan of extreme metal and play guitar in a band.
+  I'm a fan of extreme metal and play guitar in a band. The guitar I am using is a Jackson RRX24.
   </p>
   <div class="cv-row two">
     <div class="cv-card compact">
