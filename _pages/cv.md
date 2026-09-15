@@ -52,7 +52,7 @@ redirect_from:
   }
 
   .cv-lead {
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 0 0;
     color: var(--cv-muted);
     font-size: 0.98rem;
     line-height: 1.65;
