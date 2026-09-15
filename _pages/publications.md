@@ -50,7 +50,7 @@ author_profile: true
   }
 
   .cv-lead {
-    margin: 0 0 1.2rem 0;
+    margin: 0 0 0 0;
     color: var(--cv-muted);
     font-size: 0.98rem;
     line-height: 1.65;
