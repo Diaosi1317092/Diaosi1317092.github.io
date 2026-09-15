@@ -302,7 +302,7 @@ This page summarizes my education, research experience, selected academic activi
   <div class="cv-card compact">
     <h3 class="cv-card-title" style="margin-bottom: 0.25rem;">
       Overall Average Mark:
-      <span class="cv-small">89.93/100</span>
+      <span class="cv-small">88.79/100</span>
       &nbsp;&nbsp;|&nbsp;&nbsp;
       GPA:
       <span class="cv-small">3.70/4.00</span>
@@ -346,7 +346,9 @@ This page summarizes my education, research experience, selected academic activi
 
 <section class="cv-section">
   <h2 class="cv-section-title">Skills</h2>
-
+  <p class="cv-lead">
+  I'm a fan of extreme metal and play guitar in a band.
+  </p>
   <div class="cv-row two">
     <div class="cv-card compact">
       <h3 class="cv-card-title">Programming</h3>
