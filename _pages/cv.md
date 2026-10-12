@@ -289,12 +289,12 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <h3 class="cv-card-title">Serves</h3>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 3rd Universal Cup Finals</span>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+      <span class="cv-card-subtitle" style="margin: 0;">The 3rd Universal Cup Finals</span>
       <span style="white-space: nowrap; margin-left: 12px;">Problem Setter</span>
     </div>
-    <div style="display: flex; justify-content: space-between; align-items: baseline;">
-      <span class="cv-card-subtitle">The 4th Universal Cup Semifinals</span>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
+      <span class="cv-card-subtitle" style="margin: 0;">The 4th Universal Cup Semifinals</span>
       <span style="white-space: nowrap; margin-left: 12px;">Judge</span>
     </div>
   </div>
