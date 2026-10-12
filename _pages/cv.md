@@ -288,10 +288,14 @@ This page summarizes my education, research experience, selected academic activi
 </div>
 
   <div class="cv-card compact">
-    <h3 class="cv-card-title">Problem Setting</h3>
+    <h3 class="cv-card-title">Serves</h3>
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">The 3rd Universal Cup Finals</span>
       <span style="white-space: nowrap; margin-left: 12px;">Problem Setter</span>
+    </div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <span class="cv-card-subtitle">The 4th Universal Cup Semifinals</span>
+      <span style="white-space: nowrap; margin-left: 12px;">Judge</span>
     </div>
   </div>
 </section>
