@@ -335,12 +335,10 @@ This page summarizes my education, research experience, selected academic activi
 
 <section class="cv-section">
   <h2 class="cv-section-title">Teaching</h2>
-
-  <div class="cv-card compact">
-    <p>
-      Assisted with tutorials, grading, and student support for an honors-level algorithms course.
+    <p class="cv-lead">
+    Assisted with tutorials, grading, and student support for an honors-level algorithms course.
     </p>
-
+  <div class="cv-card compact">
     <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <span class="cv-card-subtitle">CS217 Data Structures and Algorithm Analysis (Honors)</span>
       <span style="white-space: nowrap; margin-left: 12px;">Teaching Assistant — Fall 2025</span>
