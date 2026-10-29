@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year undergraduate student at SUSTech, majoring in Computer Science and Technology (Turing Class).
+I am currently a fourth-year undergraduate student at SUSTech, majoring in Computer Science and Technology (Turing Class).
 
 I have participated in competitive programming and won a Gold Medal in the **International Collegiate Programming Contest**. I also served as a member of the Problem Selection Committee and worked on problem setting for **The 3rd Universal Cup Finals**.
 
