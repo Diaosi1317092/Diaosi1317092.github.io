@@ -190,7 +190,7 @@ This page summarizes my education, research experience, selected academic activi
 
   <div class="cv-card compact">
     <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px;">
-      <span class="cv-card-title">B.S. in Computer Science and Technology <span class="cv-small">(Turing Class)</span></span>
+      <span class="cv-card-title">B.Eng. in Computer Science and Technology <span class="cv-small">(Turing Class)</span></span>
       <span style="white-space: nowrap; margin-left: 12px;">2023 – Present</span>
     </div>
     <p class="cv-card-subtitle">Southern University of Science and Technology</p>
@@ -267,22 +267,22 @@ This page summarizes my education, research experience, selected academic activi
   <h3 class="cv-card-title">Awards</h3>
 
   <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
-    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Hangzhou Regional Contest</span>
+    <span class="cv-card-subtitle" style="margin: 0;"><a href="{{ base_path }}/files/awards/icpc-hangzhou-gold.pdf">The 49th ICPC Hangzhou Regional Contest</a></span>
     <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
-    <span class="cv-card-subtitle" style="margin: 0;">The 10th CCPC Zhengzhou Regional Contest</span>
+    <span class="cv-card-subtitle" style="margin: 0;"><a href="{{ base_path }}/files/awards/ccpc-zhengzhou-gold.pdf">The 10th CCPC Zhengzhou Regional Contest</a></span>
     <span class="cv-gold" style="white-space: nowrap; margin-left: 12px;">Gold Medal</span>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
-    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Shenyang Regional Contest</span>
+    <span class="cv-card-subtitle" style="margin: 0;"><a href="{{ base_path }}/files/awards/icpc-shenyang-silver.pdf">The 49th ICPC Shenyang Regional Contest</a></span>
     <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: baseline; margin: 0.08rem 0;">
-    <span class="cv-card-subtitle" style="margin: 0;">The 49th ICPC Asia East Continent Final Contest</span>
+    <span class="cv-card-subtitle" style="margin: 0;"><a href="{{ base_path }}/files/awards/icpc-asia-east-final-silver.pdf">The 49th ICPC Asia East Continent Final Contest</a></span>
     <span class="cv-silver" style="white-space: nowrap; margin-left: 12px;">Silver Medal</span>
   </div>
 </div>
